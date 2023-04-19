@@ -1,0 +1,12 @@
+[dbo].[Canal]		-> xlsx
+[dbo].[Client]		-> csv
+[dbo].[Commercial]	-> xlsx
+[dbo].[Gamme]		-> xlsx
+[dbo].[Objectif]	-> csv
+[dbo].[Pays]
+[dbo].[Produit]		-> xlsx
+[dbo].[Succursale]	-> xlsx
+[dbo].[TypeClient]	-> xlsx
+[dbo].[TypeProduit]	-> xlsx
+[dbo].[Vente]		-> csv
+[dbo].[Ville]

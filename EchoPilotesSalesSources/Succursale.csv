@@ -1,0 +1,25 @@
+SuccursaleID;SuccursaleDesc;PaysID
+1;Montréal;10
+2;Paris 1;14
+3;Londres;11
+4;Stockholm;6
+5;Marseille;14
+6;Chamonix;14
+7;Orléans;14
+8;Francfort;13
+9;Madrid;1
+10;Benelux;8
+11;Singapour;9
+12;Paris 2;14
+13;Manchester;1X1
+14;Tokyo;2
+15;Melbourne;5
+16;Limoges;14
+17;Lyon;14
+18;Rouen;14
+19;Hong Kong;3
+20;Vancouver;10
+21;Bordeaux;14
+22;Toronto;10
+23;Boston;15
+24;Mexico;7
